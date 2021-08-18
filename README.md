@@ -4,9 +4,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
+The purpose of this app was to meet the requirements of the following user story:
+
+As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 
-  ![Deployed app]()
+  ![Deployed app](FTDeployed.GIF)
 
 
 
@@ -38,7 +41,7 @@ Go to https://github.com/RoomsieJones to view my github profile.
 ## Links
 [Link to repository!](https://github.com/roomsiejones/fitness-tracker)
 
-[Link to Deployed Website!]()
+[Link to Deployed Website!](https://fitness-tracker-renaud.herokuapp.com/?id=611c84b03125fa00164fad99)
 
 [LinkedIn](https://www.linkedin.com/in/jonathon-renaud-410910aa/)
 
